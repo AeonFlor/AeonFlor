@@ -11,6 +11,8 @@ I have a deep interest in mastering various technologies and utilizing them arti
 [![Youtube Badge](https://img.shields.io/badge/Rasa-00c6ff?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@aeonflor7514)
 [![Gmail Badge](https://img.shields.io/badge/harin.luna@gmail.com-F15138?style=flat-square&logo=gmail&logoColor=white)](mailto:harin.luna@gmail.com)
 
+</br>
+
 [![Algorithm Badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=AeonFlor)](https://solved.ac/profile/aeonflor)
 
 </br>
@@ -62,9 +64,7 @@ I have a deep interest in mastering various technologies and utilizing them arti
 
 </br>
 
-<div>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AeonFlor&count_private=true&include_all_commits=true&custom_title=AeonFlor's%20Github&show_icons=true&theme=graywhite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AeonFlor&layout=donut">
 </p>
-</div>
