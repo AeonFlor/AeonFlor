@@ -63,7 +63,7 @@ I have a deep interest in mastering various technologies and utilizing them arti
 
 - B.S. Department of Computer Science and Engineering at Hanyang University, ERICA (2018.09~2025.02)
 - B.S. Department of Electronic Engineering at Hanyang University, ERICA (2018.03~2025.02)
-- Department of Information and Communication Technology at Sunrin Internet High School (2015.03~2017.02)
+- Department of Information and Communication Technology at Sunrin Internet High School (2015.03~2018.02)
 
 </br>
 
